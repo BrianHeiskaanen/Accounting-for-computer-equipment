@@ -1,0 +1,34 @@
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting for computer equipment.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.Authorization.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.Registration.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting for computer equipment.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting for computer equipment.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\bin\Debug\Database.mdf
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\bin\Debug\Database_log.ldf
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\bin\Debug\Accounting for computer equipment.exe.config
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\bin\Debug\Accounting for computer equipment.exe
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\bin\Debug\Accounting for computer equipment.pdb
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting for computer equipment.exe
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting for computer equipment.pdb
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.AdminMenu.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.UserMenu.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.PasswordChange.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.PersonalInformation.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.AddingCompany.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.AddingProduct.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.AddingProductType.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.CompanyInformation.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.DeleteCompany.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.DeleteProductTypes.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.InformationAboutProductTypes.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.DeleteProduct.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.InformationAboutProducts.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.AddingToCart.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.DeleteItemsFromCart.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.InformationAboutOrder.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.AddingAdvertisement.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.DeleteAdvertisement.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.InformationAboutAdvertisement.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.ChangeAdvertisement.resources
+C:\Users\maksi\OneDrive\Desktop\Accounting for computer equipment\Accounting for computer equipment\obj\Debug\Accounting_for_computer_equipment.ViewingAdvertisingCampaigns.resources
